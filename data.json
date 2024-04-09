@@ -2,226 +2,151 @@
     {
         "person": "Minh Hằng",
         "messages": [
+            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
             "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
             "Chúng ta có thể bắt đầu công việc kia.",
             "Cảm ơn bạn đã liên hệ!",
-            "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
-            "Mình có thể gặp nhau vào cuối tuần không?",
-            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
-            "Mình rất thích ý tưởng đó!",
-            "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Mình rất thích ý tưởng đó!"
         ]
     },
     {
         "person": "Anh Khoa",
         "messages": [
+            "Tối nay có kế hoạch gì không?",
             "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
-            "Chúng ta có thể bắt đầu công việc kia.",
-            "Cảm ơn bạn đã liên hệ!",
-            "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
-            "Mình có thể gặp nhau vào cuối tuần không?",
-            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
             "Mình rất thích ý tưởng đó!",
-            "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
+            "Chúng ta có thể bắt đầu công việc kia."
         ]
     },
     {
         "person": "Bảo Anh",
         "messages": [
             "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
             "Chúng ta có thể bắt đầu công việc kia.",
-            "Cảm ơn bạn đã liên hệ!",
-            "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
             "Mình có thể gặp nhau vào cuối tuần không?",
             "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
-            "Mình rất thích ý tưởng đó!",
-            "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Cảm ơn bạn đã liên hệ!"
         ]
     },
     {
         "person": "Thị Lan",
         "messages": [
+            "Mình rất thích ý tưởng đó!",
             "Xin chào, bạn cần giúp đỡ gì không?",
             "Hôm nay bạn thế nào?",
-            "Chúng ta có thể bắt đầu công việc kia.",
-            "Cảm ơn bạn đã liên hệ!",
-            "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
-            "Mình có thể gặp nhau vào cuối tuần không?",
-            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
-            "Mình rất thích ý tưởng đó!",
             "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Đừng ngần ngại chia sẻ suy nghĩ của bạn."
         ]
     },
     {
         "person": "Hải Long",
         "messages": [
-            "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
             "Chúng ta có thể bắt đầu công việc kia.",
-            "Cảm ơn bạn đã liên hệ!",
-            "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
-            "Mình có thể gặp nhau vào cuối tuần không?",
-            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
-            "Mình rất thích ý tưởng đó!",
             "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Xin chào, bạn cần giúp đỡ gì không?",
+            "Tối nay có kế hoạch gì không?",
+            "Cảm ơn bạn đã liên hệ!"
         ]
     },
     {
         "person": "Kim Liên",
         "messages": [
             "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
-            "Chúng ta có thể bắt đầu công việc kia.",
-            "Cảm ơn bạn đã liên hệ!",
             "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
             "Mình có thể gặp nhau vào cuối tuần không?",
-            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
-            "Mình rất thích ý tưởng đó!",
             "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Mình rất thích ý tưởng đó!"
         ]
     },
     {
         "person": "Thế Anh",
         "messages": [
-            "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
-            "Chúng ta có thể bắt đầu công việc kia.",
-            "Cảm ơn bạn đã liên hệ!",
             "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
+            "Tối nay có kế hoạch gì không?",
             "Mình có thể gặp nhau vào cuối tuần không?",
-            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
-            "Mình rất thích ý tưởng đó!",
             "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm."
         ]
     },
     {
         "person": "Nhật Minh",
         "messages": [
-            "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
-            "Chúng ta có thể bắt đầu công việc kia.",
-            "Cảm ơn bạn đã liên hệ!",
-            "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
             "Mình có thể gặp nhau vào cuối tuần không?",
-            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
-            "Mình rất thích ý tưởng đó!",
-            "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Cảm ơn bạn đã liên hệ!",
+            "Chúng ta có thể bắt đầu công việc kia.",
+            "Xin chào, bạn cần giúp đỡ gì không?",
+            "Mình rất thích ý tưởng đó!"
         ]
     },
     {
-        "person": "Mỹ Linh",
+        "person": "Trần Hoàng",
         "messages": [
-            "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
-            "Chúng ta có thể bắt đầu công việc kia.",
-            "Cảm ơn bạn đã liên hệ!",
-            "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
-            "Mình có thể gặp nhau vào cuối tuần không?",
-            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
-            "Mình rất thích ý tưởng đó!",
             "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
+            "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
+            "Cảm ơn bạn đã liên hệ!",
+            "Mình rất thích ý tưởng đó!"
         ]
     },
     {
-        "person": "Trung Hiếu",
+        "person": "Phương Thảo",
         "messages": [
             "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
-            "Chúng ta có thể bắt đầu công việc kia.",
-            "Cảm ơn bạn đã liên hệ!",
             "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
-            "Mình có thể gặp nhau vào cuối tuần không?",
-            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
             "Mình rất thích ý tưởng đó!",
-            "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Cảm ơn bạn đã liên hệ!",
+            "Chúng ta có thể bắt đầu công việc kia."
         ]
     },
     {
-        "person": "Thảo Tiên",
+        "person": "Ngọc Trinh",
         "messages": [
-            "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
-            "Chúng ta có thể bắt đầu công việc kia.",
             "Cảm ơn bạn đã liên hệ!",
-            "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
             "Mình có thể gặp nhau vào cuối tuần không?",
             "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
-            "Mình rất thích ý tưởng đó!",
             "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Chúng ta có thể bắt đầu công việc kia."
         ]
     },
     {
-        "person": "Bình Minh",
+        "person": "Trung Dũng",
         "messages": [
-            "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
-            "Chúng ta có thể bắt đầu công việc kia.",
-            "Cảm ơn bạn đã liên hệ!",
             "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
-            "Mình có thể gặp nhau vào cuối tuần không?",
             "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
-            "Mình rất thích ý tưởng đó!",
+            "Tối nay có kế hoạch gì không?",
             "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Hôm nay bạn thế nào?"
         ]
     },
     {
-        "person": "Thanh Hà",
+        "person": "Thuỳ Linh",
         "messages": [
-            "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
-            "Chúng ta có thể bắt đầu công việc kia.",
-            "Cảm ơn bạn đã liên hệ!",
             "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
-            "Mình có thể gặp nhau vào cuối tuần không?",
-            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
-            "Mình rất thích ý tưởng đó!",
             "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Tối nay có kế hoạch gì không?",
+            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
+            "Cảm ơn bạn đã liên hệ!"
         ]
     },
     {
-        "person": "Duật Lê",
+        "person": "Minh Triết",
         "messages": [
-            "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
-            "Chúng ta có thể bắt đầu công việc kia.",
-            "Cảm ơn bạn đã liên hệ!",
-            "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
             "Mình có thể gặp nhau vào cuối tuần không?",
             "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
-            "Mình rất thích ý tưởng đó!",
-            "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Chúng ta có thể bắt đầu công việc kia.",
+            "Hôm nay bạn thế nào?",
+            "Cảm ơn bạn đã liên hệ!"
         ]
     },
     {
-        "person": "Lan Phương",
+        "person": "Thanh Tâm",
         "messages": [
             "Xin chào, bạn cần giúp đỡ gì không?",
-            "Hôm nay bạn thế nào?",
-            "Chúng ta có thể bắt đầu công việc kia.",
-            "Cảm ơn bạn đã liên hệ!",
-            "Đừng ngần ngại chia sẻ suy nghĩ của bạn.",
-            "Mình có thể gặp nhau vào cuối tuần không?",
-            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm.",
             "Mình rất thích ý tưởng đó!",
-            "Bạn đã ăn trưa chưa?",
-            "Tối nay có kế hoạch gì không?"
+            "Chúng ta có thể bắt đầu công việc kia.",
+            "Tối nay có kế hoạch gì không?",
+            "Mình đã nhận được thông tin, mình sẽ phản hồi sớm."
         ]
     }
 ]

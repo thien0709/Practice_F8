@@ -23,18 +23,18 @@ const setList =  function (arr) {
   arr.forEach((arg) => {
     const html = `
         <li class="item">
-        <p class="${arg.person}">${arg.person}</p>
-      </li>
+        <h4 class="${arg.person}">${arg.person}</h4>
+        </li>
         `;
     htmls += html;
   });
   list.innerHTML = htmls;
 };
 inp.oninput = function (e) {
-  const value = e.target.value;
+  const value = e.target.value.trim().toLowerCase();
   if (value == "") return setList(data);
   filter = data.filter(function (item) {
-    return item.person.indexOf(value) == -1 ? false : true;
+    return item.person.toLowerCase().includes(value);
   });
   setList(filter);
 };
