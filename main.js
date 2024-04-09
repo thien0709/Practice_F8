@@ -1,10 +1,3 @@
-// // Sử dụng case để 2 case dùng chung một mã code
-// // case 4 : case 5 : statement break;
-
-// console.log(typeof NaN);
-// console.log(1/-0)
-// console.log(Math.floor("a"))
-
 const list = document.querySelector(".list");
 const inp = document.querySelector("#input");
 
@@ -45,3 +38,10 @@ inp.oninput = function (e) {
   });
   setList(filter);
 };
+// Load xong main.js mới load message
+document.addEventListener('DOMContentLoaded', function() {
+    var script = document.createElement('script');
+    script.src = './message.js';
+    document.body.appendChild(script);
+  });
+  
